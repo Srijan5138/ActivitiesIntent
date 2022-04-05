@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private int mCount = 0;
     private TextView mShowCount;
     public static final String EXTRA_MESSAGE =
-            "com.example.android.IntentHomework.extra.MESSAGE";
+            "IntentHomework";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
